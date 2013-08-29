@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: schristou88
+Build-Jdk: 1.6.0_33
+Plugin-Class: hudson.plugins.git.PluginImpl
+Group-Id: org.hudsonci.plugins
+Short-Name: git
+Long-Name: Hudson GIT plugin
+Url: http://wiki.hudson-ci.org/display/HUDSON/Git+Plugin
+Plugin-Version: 2.2.1-h-1
+Hudson-Version: null
+Plugin-Dependencies: parameterized-trigger:2.4;resolution:=optional
+Plugin-Developers: Many:schristou88 kohsuke abayer wjprakash antkozak 
+ 8nevil8:
+
